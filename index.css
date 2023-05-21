@@ -1,0 +1,16 @@
+#root{
+    text-align: center;
+    font-size: xx-large;
+    border-radius: 50%;
+    background-color: aquamarine;
+}
+
+sub{
+    font-size: smaller;
+}
+
+button{
+    margin: 10px;
+    font-size: large;
+    cursor: pointer;
+}
